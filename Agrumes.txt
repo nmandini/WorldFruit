@@ -1,7 +1,11 @@
-Fruits and Veggies
+Fruits and Veggies and animals
 
 lemon
 orange
 grapefruit
 kiwi
 banana
+monkey
+donkey
+cat
+dog
