@@ -1,5 +1,5 @@
 
-Fruits and Veggies and animals
+Fruits and Veggies and animals and countries
 yellow
 lemon
 orange
@@ -10,3 +10,6 @@ monkey
 donkey
 cat
 dog
+botswana
+namibia
+russia
