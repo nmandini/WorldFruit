@@ -1,5 +1,4 @@
 Fruits and Veggies and animals
-
 lemon
 orange
 grapefruit
